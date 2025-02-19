@@ -35,3 +35,13 @@ To view the website locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/amirhh-04/amirhh-04.ir.git
+
+## Contributing
+
+If you have suggestions or improvements for the site or any of the projects, please feel free to open an issue or submit a pull request.
+
+## Contact
+For any inquiries, please contact me at:
+
+Email: me@amirhh-04.ir
+LinkedIn: <a href='https://www.linkedin.com/in/amirhossein-hassan/'>Amirhossein Hassan</a>
