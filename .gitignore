@@ -1,0 +1,7 @@
+.htpasswd
+other/
+js/aqi.js
+js/gpa.js
+gpa/calculation.php
+contact/recaptcha.php
+airq/s-airq.php

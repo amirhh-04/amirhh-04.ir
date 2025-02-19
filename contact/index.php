@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link defer href="/css/style.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- <link defer href="https://api.amirhh-04.ir/css/style.css?v2.8" rel="stylesheet"> -->
+        <title>Amirhosein Hassan - Contact | Amirhh</title>
+        <meta http-equiv="cache-control" content="max-age=0" />
+        <meta http-equiv="cache-control" content="no-cache" />
+        <meta prottp-equiv="expires" content="0" />
+        <meta http-equiv="pragma" content="no-cache" />
+        <!-- og Meta - Discord ... -->
+        <meta property="og:site_name" content="Amirhosein Hassan - Contact">
+        <meta property="og:title" content="Amirhh_04">
+        <meta property="og:url" content="https://amirhh-04.ir/">
+        <meta property="og:image:secure_url" content="https://api.amirhh-04.ir/works/cv.png">
+        <meta property="og:locale" content="en_US">
+        <meta property="og:type" content="website">
+        <meta hperty="og:image" content="https://api.amirhh-04.ir/works/cv.png">
+        <meta property="og:image:type" content="image/png">
+        <!-- og Meta - Discord ... -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@amirhh_04">
+        <meta name="twitter:creator" content="@amirhh_04">
+        <meta name="twitter:title" content="Amirhosein Hassan">
+        <meta name="twitter:description" content="I'm a developer and if you are reading this text, it means we have the same opinions. So let's get to know each other more :)">
+        <meta name="twitter:image" content="https://api.amirhh-04.ir/works/cv.png">
+        <!-- Profile Data -->
+        <meta property="profile:first_name" content="Amirhosein">
+        <meta property="profile:last_name" content="Hassan">
+        <meta property="profile:gender" content="male">
+        <meta property="profile:username" content="y">
+        <!-- Theme Color -->
+        <meta name="theme-color" content="#e23443">
+        <!-- Other -->
+        <link rel="alternate" type="application/rss+xml" href="https://amirhh-04.ir/" />
+        <link rel="icon" type="image/png" href="https://api.amirhh-04.ir/works/cv.png" />
+        <meta name="author" content="Amirhosein Hassan">
+        <meta name="description" content="Hi, I'm Amirhosein. I work in the field of web development and I enjoy solving complex programming problems.">
+        <meta name="keywords" content="Amirhosein Hassan,امیرحسین حسن, php, php developer, برنامه نویس ,برنامه نویس php, fivem developer, avr,arm,fivem, amir, Amirhosein, amirhosein, hassan, Hassan, amirhh, amirhh-04, amirhh_04, amirhh 04, eng.amirhh, eng_amirhh, امیرحسین, حسن, cv website, amir hosein hassan">
+        <meta property="og:description" content="I'm a web developer and if you are reading this text, it means we have the same opinions. So let's get to know each other more :)">
+        <meta property="profile:first_name" content="Amirhosein">
+        <meta property="profile:last_name" content="Hassan">
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-MZB4Q2B');
+        </script>
+        <!-- End Google Tag Manager -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Signika:wght@300;600&display=swap" rel="stylesheet">
+        <!-- Schema  -->
+        <script type="application/ld+json">
+            {
+              "@context": "https://schema.org/",
+              "@type": "Person",
+              "name": "amirhosein hassan",
+              "description":"I'm a developer and if you are reading this text, it means we have the same opinions. So let's get to know each other more :)",
+              "url": "https://amirhh-04.ir/",
+              "image": "https://api.amirhh-04.ir/works/cv.png",
+              "logo":"https://api.amirhh-04.ir/works/cv.png",
+              "sameAs": [
+                "https://twitter.com/amirhh_04",
+                "https://www.instagram.com/amirhh_04/",
+                "https://github.com/amirhh-04",
+                "https://linktr.ee/amirhh_04",
+                "https://discord.com/invite/uRWCfxtgpH"
+              ],
+              "jobTitle": "Amirhosein Hassan - Full Stack Developer",
+              "worksFor": {
+                "@type": "Organization",
+                "name": "Jasper Development"
+              }  
+            }
+        </script>
+    </head>
+    <body>
+        <!-- Navbar -->
+        <header class="nav-side">
+            <div class="nav-side-main">
+                <div class="cv-author">
+                    <div class="cv-avatar">
+                    <img class="cv-image" src="https://api.amirhh-04.ir/icons/unfor.png" alt="Amirhosein Hassan">
+                    </div>
+                    <div class="cv-info">
+                        <div class="cv-name">
+                        <span class="cv-name-text">Amirhosein Hassan<span>
+                        </div>
+                        <div class="cv-job">
+                            <span class="cv-job-text">Full Stack Developer<span>
+                        </div>
+                    </div>
+                    <div class="cv-connect">
+                        <a class="cv-connect-item github" aria-label="View Amirhosein Hassan-Amirhh on github" href="https://github.com/amirhh-04">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
+                                <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+                            </svg>
+                        </a>
+
+                        <a class="cv-connect-item discord" aria-label="View Amirhosein Hassan-Amirhh on discord" href="https://discord.com/invite/uRWCfxtgpH">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-discord" viewBox="0 0 16 16">
+                                <path d="M13.545 2.907a13.227 13.227 0 0 0-3.257-1.011.05.05 0 0 0-.052.025c-.141.25-.297.577-.406.833a12.19 12.19 0 0 0-3.658 0 8.258 8.258 0 0 0-.412-.833.051.051 0 0 0-.052-.025c-1.125.194-2.22.534-3.257 1.011a.041.041 0 0 0-.021.018C.356 6.024-.213 9.047.066 12.032c.001.014.01.028.021.037a13.276 13.276 0 0 0 3.995 2.02.05.05 0 0 0 .056-.019c.308-.42.582-.863.818-1.329a.05.05 0 0 0-.01-.059.051.051 0 0 0-.018-.011 8.875 8.875 0 0 1-1.248-.595.05.05 0 0 1-.02-.066.051.051 0 0 1 .015-.019c.084-.063.168-.129.248-.195a.05.05 0 0 1 .051-.007c2.619 1.196 5.454 1.196 8.041 0a.052.052 0 0 1 .053.007c.08.066.164.132.248.195a.051.051 0 0 1-.004.085 8.254 8.254 0 0 1-1.249.594.05.05 0 0 0-.03.03.052.052 0 0 0 .003.041c.24.465.515.909.817 1.329a.05.05 0 0 0 .056.019 13.235 13.235 0 0 0 4.001-2.02.049.049 0 0 0 .021-.037c.334-3.451-.559-6.449-2.366-9.106a.034.034 0 0 0-.02-.019Zm-8.198 7.307c-.789 0-1.438-.724-1.438-1.612 0-.889.637-1.613 1.438-1.613.807 0 1.45.73 1.438 1.613 0 .888-.637 1.612-1.438 1.612Zm5.316 0c-.788 0-1.438-.724-1.438-1.612 0-.889.637-1.613 1.438-1.613.807 0 1.451.73 1.438 1.613 0 .888-.631 1.612-1.438 1.612Z"/>
+                            </svg>
+                        </a>
+
+                        <a class="cv-connect-item linktree" aria-label="View Amirhosein Hassan-Amirhh on linktree" href="https://linktr.ee/amirhh_04">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="20" height="20"><path fill="currentColor" d="M18.89,32H21v8c0,1.1-0.9,2-2,2h-4c-1.1,0-2-0.9-2-2v-8H4.89c-1.52,0-2.48-1.64-1.75-2.97 L15.25,7.16c0.76-1.37,2.74-1.37,3.5,0l4.85,9.74l-6.46,12.13C16.41,30.36,17.37,32,18.89,32z"/><path fill="currentColor" d="M43.11,32H35v8c0,1.1-0.9,2-2,2h-4c-1.1,0-2-0.9-2-2v-8h2.11c1.52,0,2.48-1.64,1.75-2.97L24.3,16.9 l4.95-9.74c0.76-1.37,2.74-1.37,3.5,0l12.11,21.87C45.59,30.36,44.63,32,43.11,32z"/></svg>
+                        </a>
+
+                        <a class="cv-connect-item instagram" aria-label="View Amirhosein Hassan-Amirhh on instagram" href="https://www.instagram.com/amirhh_04/">
+                            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="20" height="20" viewBox="0 0 50 50">
+                                <path fill="currentColor" d="M 16 3 C 8.83 3 3 8.83 3 16 L 3 34 C 3 41.17 8.83 47 16 47 L 34 47 C 41.17 47 47 41.17 47 34 L 47 16 C 47 8.83 41.17 3 34 3 L 16 3 z M 37 11 C 38.1 11 39 11.9 39 13 C 39 14.1 38.1 15 37 15 C 35.9 15 35 14.1 35 13 C 35 11.9 35.9 11 37 11 z M 25 14 C 31.07 14 36 18.93 36 25 C 36 31.07 31.07 36 25 36 C 18.93 36 14 31.07 14 25 C 14 18.93 18.93 14 25 14 z M 25 16 C 20.04 16 16 20.04 16 25 C 16 29.96 20.04 34 25 34 C 29.96 34 34 29.96 34 25 C 34 20.04 29.96 16 25 16 z"></path>
+                            </svg>
+                        </a>
+                    </div>
+                    <div class="cv-document">
+                        <a class="download-cv-btn" aria-label="View Amirhosein Hassan's resume" href="https://amirhh-04.ir/">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-down" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M3.5 10a.5.5 0 0 1-.5-.5v-8a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 .5.5v8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 0 0 1h2A1.5 1.5 0 0 0 14 9.5v-8A1.5 1.5 0 0 0 12.5 0h-9A1.5 1.5 0 0 0 2 1.5v8A1.5 1.5 0 0 0 3.5 11h2a.5.5 0 0 0 0-1h-2z"></path>
+                                <path fill-rule="evenodd" d="M7.646 15.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 14.293V5.5a.5.5 0 0 0-1 0v8.793l-2.146-2.147a.5.5 0 0 0-.708.708l3 3z"></path>
+                            </svg>
+                            <span class="cv-btn-text">
+                                Download CV
+                            </span>
+                        </a>
+                    </div>
+                </div>
+                <div class="cv-buttons">
+
+                    <a class="cv-btn cv-buttons-btn" href="/index.html">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-house-door" viewBox="0 0 16 16">
+                            <path d="M8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4.5a.5.5 0 0 0 .5-.5v-4h2v4a.5.5 0 0 0 .5.5H14a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146ZM2.5 14V7.707l5.5-5.5 5.5 5.5V14H10v-4a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 0-.5.5v4H2.5Z"/>
+                          </svg>
+                        <span class="cv-btn-text">
+                            Home
+                        </span>
+                    </a>
+
+                    <a class="cv-btn cv-buttons-btn" href="/resume/index.html">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark-person" viewBox="0 0 16 16">
+                            <path d="M11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+                            <path d="M14 14V4.5L9.5 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2zM9.5 3A1.5 1.5 0 0 0 11 4.5h2v9.255S12 12 8 12s-5 1.755-5 1.755V2a1 1 0 0 1 1-1h5.5v2z"/>
+                          </svg>
+                        <span class="cv-btn-text">
+                            Resume
+                        </span>
+                    </a>
+
+                    <a class="cv-btn cv-buttons-btn" href="/about/index.html">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info-square" viewBox="0 0 16 16">
+                            <path d="M14 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h12zM2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2z"/>
+                            <path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/>
+                          </svg>
+                        <span class="cv-btn-text">
+                            About
+                        </span>
+                    </a>
+
+                    <a class="cv-btn cv-buttons-btn" href="/works/index.html">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-pc-display" viewBox="0 0 16 16">
+                            <path d="M8 1a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1V1Zm1 13.5a.5.5 0 1 0 1 0 .5.5 0 0 0-1 0Zm2 0a.5.5 0 1 0 1 0 .5.5 0 0 0-1 0ZM9.5 1a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1h-5ZM9 3.5a.5.5 0 0 0 .5.5h5a.5.5 0 0 0 0-1h-5a.5.5 0 0 0-.5.5ZM1.5 2A1.5 1.5 0 0 0 0 3.5v7A1.5 1.5 0 0 0 1.5 12H6v2h-.5a.5.5 0 0 0 0 1H7v-4H1.5a.5.5 0 0 1-.5-.5v-7a.5.5 0 0 1 .5-.5H7V2H1.5Z"/>
+                          </svg>
+                        <span class="cv-btn-text">
+                            Works
+                        </span>
+                    </a>
+
+                    <a class="cv-btn cv-buttons-btn active-btn" href="//contact/index.php">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-earbuds" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd" d="M6.825 4.138c.596 2.141-.36 3.593-2.389 4.117a4.432 4.432 0 0 1-2.018.054c-.048-.01.9 2.778 1.522 4.61l.41 1.205a.52.52 0 0 1-.346.659l-.593.19a.548.548 0 0 1-.69-.34L.184 6.99c-.696-2.137.662-4.309 2.564-4.8 2.029-.523 3.402 0 4.076 1.948zm-.868 2.221c.43-.112.561-.993.292-1.969-.269-.975-.836-1.675-1.266-1.563-.43.112-.561.994-.292 1.969.269.975.836 1.675 1.266 1.563zm3.218-2.221c-.596 2.141.36 3.593 2.389 4.117a4.434 4.434 0 0 0 2.018.054c.048-.01-.9 2.778-1.522 4.61l-.41 1.205a.52.52 0 0 0 .346.659l.593.19c.289.092.6-.06.69-.34l2.536-7.643c.696-2.137-.662-4.309-2.564-4.8-2.029-.523-3.402 0-4.076 1.948zm.868 2.221c-.43-.112-.561-.993-.292-1.969.269-.975.836-1.675 1.266-1.563.43.112.561.994.292 1.969-.269.975-.836 1.675-1.266 1.563z"/>
+                          </svg>
+                        <span class="cv-btn-text">
+                            Contact
+                        </span>
+                    </a>
+                </div>
+                <div class="copyright">
+                    <span class="copyright-text">
+                        Copyright © 2023 - 2024 Amirhosein Hassan®. All rights reserved.
+                    </span>
+                </div>
+            </div>
+        </header>
+        <header class="m-navbar">
+            <div class="cv-mb-buttons">
+                <a class="cv-mb-btn cv-mb-right"  href="/index.html">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-house-door" viewBox="0 0 16 16">
+                        <path d="M8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4.5a.5.5 0 0 0 .5-.5v-4h2v4a.5.5 0 0 0 .5.5H14a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146ZM2.5 14V7.707l5.5-5.5 5.5 5.5V14H10v-4a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 0-.5.5v4H2.5Z"/>
+                      </svg>
+                    <span class="cv-btn-text">
+                        Home
+                    </span>
+                </a>
+                <a class="cv-mb-btn" href="/resume/index.html">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark-person" viewBox="0 0 16 16">
+                        <path d="M11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+                        <path d="M14 14V4.5L9.5 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2zM9.5 3A1.5 1.5 0 0 0 11 4.5h2v9.255S12 12 8 12s-5 1.755-5 1.755V2a1 1 0 0 1 1-1h5.5v2z"/>
+                    </svg>
+                    <span class="cv-btn-text">
+                        Resume
+                    </span>
+                </a>
+                <a class="cv-mb-btn" href="/about/index.html">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info-square" viewBox="0 0 16 16">
+                        <path d="M14 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h12zM2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2z"/>
+                        <path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/>
+                    </svg>
+                    <span class="cv-btn-text">
+                        About
+                    </span>
+                </a>
+                <a class="cv-mb-btn" href="/works/index.html">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-pc-display" viewBox="0 0 16 16">
+                        <path d="M8 1a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1V1Zm1 13.5a.5.5 0 1 0 1 0 .5.5 0 0 0-1 0Zm2 0a.5.5 0 1 0 1 0 .5.5 0 0 0-1 0ZM9.5 1a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1h-5ZM9 3.5a.5.5 0 0 0 .5.5h5a.5.5 0 0 0 0-1h-5a.5.5 0 0 0-.5.5ZM1.5 2A1.5 1.5 0 0 0 0 3.5v7A1.5 1.5 0 0 0 1.5 12H6v2h-.5a.5.5 0 0 0 0 1H7v-4H1.5a.5.5 0 0 1-.5-.5v-7a.5.5 0 0 1 .5-.5H7V2H1.5Z"/>
+                    </svg>
+                    <span class="cv-btn-text">
+                        Works
+                    </span>
+                </a>
+                <a class="cv-mb-btn cv-mb-left cv-mb-active" href="//contact/index.php">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-earbuds" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M6.825 4.138c.596 2.141-.36 3.593-2.389 4.117a4.432 4.432 0 0 1-2.018.054c-.048-.01.9 2.778 1.522 4.61l.41 1.205a.52.52 0 0 1-.346.659l-.593.19a.548.548 0 0 1-.69-.34L.184 6.99c-.696-2.137.662-4.309 2.564-4.8 2.029-.523 3.402 0 4.076 1.948zm-.868 2.221c.43-.112.561-.993.292-1.969-.269-.975-.836-1.675-1.266-1.563-.43.112-.561.994-.292 1.969.269.975.836 1.675 1.266 1.563zm3.218-2.221c-.596 2.141.36 3.593 2.389 4.117a4.434 4.434 0 0 0 2.018.054c.048-.01-.9 2.778-1.522 4.61l-.41 1.205a.52.52 0 0 0 .346.659l.593.19c.289.092.6-.06.69-.34l2.536-7.643c.696-2.137-.662-4.309-2.564-4.8-2.029-.523-3.402 0-4.076 1.948zm.868 2.221c-.43-.112-.561-.993-.292-1.969.269-.975.836-1.675 1.266-1.563.43.112.561.994.292 1.969-.269.975-.836 1.675-1.266 1.563z"/>
+                    </svg>
+                    <span class="cv-btn-text">
+                        Contact
+                    </span>
+                </a>
+            </div>
+        </header>
+        <div class="mb-profile-container">
+            <div class="mb-profile-imgzone">
+            <img class="mb-profile-avatar" src="https://api.amirhh-04.ir/icons/unfor.png" alt="Amirhosein Hassan">
+            </div>
+            <div class="mb-profile-cardzone mb-profile-hidden">
+              <div class="mb-profile-backcard">
+                <div class="mb-profile-maincard">
+                    <div class="cv-info">
+                        <div class="cv-name">
+                            <span class="cv-name-text">Amirhosein Hassan</span>
+                        </div>
+                        <div class="cv-job">
+                            <span class="cv-job-text">Full Stack Developer</span>
+                        </div>
+                    </div>
+                    <div class="cv-connect">
+                        <a class="cv-connect-item github" aria-label="View Amirhosein Hassan-Amirhh on github" href="https://github.com/amirhh-04">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
+                                <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+                            </svg>
+                        </a>
+
+                        <a class="cv-connect-item discord" aria-label="View Amirhosein Hassan-Amirhh on discord" href="https://discord.com/invite/uRWCfxtgpH">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-discord" viewBox="0 0 16 16">
+                                <path d="M13.545 2.907a13.227 13.227 0 0 0-3.257-1.011.05.05 0 0 0-.052.025c-.141.25-.297.577-.406.833a12.19 12.19 0 0 0-3.658 0 8.258 8.258 0 0 0-.412-.833.051.051 0 0 0-.052-.025c-1.125.194-2.22.534-3.257 1.011a.041.041 0 0 0-.021.018C.356 6.024-.213 9.047.066 12.032c.001.014.01.028.021.037a13.276 13.276 0 0 0 3.995 2.02.05.05 0 0 0 .056-.019c.308-.42.582-.863.818-1.329a.05.05 0 0 0-.01-.059.051.051 0 0 0-.018-.011 8.875 8.875 0 0 1-1.248-.595.05.05 0 0 1-.02-.066.051.051 0 0 1 .015-.019c.084-.063.168-.129.248-.195a.05.05 0 0 1 .051-.007c2.619 1.196 5.454 1.196 8.041 0a.052.052 0 0 1 .053.007c.08.066.164.132.248.195a.051.051 0 0 1-.004.085 8.254 8.254 0 0 1-1.249.594.05.05 0 0 0-.03.03.052.052 0 0 0 .003.041c.24.465.515.909.817 1.329a.05.05 0 0 0 .056.019 13.235 13.235 0 0 0 4.001-2.02.049.049 0 0 0 .021-.037c.334-3.451-.559-6.449-2.366-9.106a.034.034 0 0 0-.02-.019Zm-8.198 7.307c-.789 0-1.438-.724-1.438-1.612 0-.889.637-1.613 1.438-1.613.807 0 1.45.73 1.438 1.613 0 .888-.637 1.612-1.438 1.612Zm5.316 0c-.788 0-1.438-.724-1.438-1.612 0-.889.637-1.613 1.438-1.613.807 0 1.451.73 1.438 1.613 0 .888-.631 1.612-1.438 1.612Z"/>
+                            </svg>
+                        </a>
+
+                        <a class="cv-connect-item linktree" aria-label="View Amirhosein Hassan-Amirhh on linktree" href="https://linktr.ee/amirhh_04">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="20" height="20"><path fill="currentColor" d="M18.89,32H21v8c0,1.1-0.9,2-2,2h-4c-1.1,0-2-0.9-2-2v-8H4.89c-1.52,0-2.48-1.64-1.75-2.97 L15.25,7.16c0.76-1.37,2.74-1.37,3.5,0l4.85,9.74l-6.46,12.13C16.41,30.36,17.37,32,18.89,32z"/><path fill="currentColor" d="M43.11,32H35v8c0,1.1-0.9,2-2,2h-4c-1.1,0-2-0.9-2-2v-8h2.11c1.52,0,2.48-1.64,1.75-2.97L24.3,16.9 l4.95-9.74c0.76-1.37,2.74-1.37,3.5,0l12.11,21.87C45.59,30.36,44.63,32,43.11,32z"/></svg>
+                        </a>
+
+                        <a class="cv-connect-item instagram" aria-label="View Amirhosein Hassan-Amirhh on instagram" href="https://www.instagram.com/amirhh_04/">
+                            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="20" height="20" viewBox="0 0 50 50">
+                                <path fill="currentColor" d="M 16 3 C 8.83 3 3 8.83 3 16 L 3 34 C 3 41.17 8.83 47 16 47 L 34 47 C 41.17 47 47 41.17 47 34 L 47 16 C 47 8.83 41.17 3 34 3 L 16 3 z M 37 11 C 38.1 11 39 11.9 39 13 C 39 14.1 38.1 15 37 15 C 35.9 15 35 14.1 35 13 C 35 11.9 35.9 11 37 11 z M 25 14 C 31.07 14 36 18.93 36 25 C 36 31.07 31.07 36 25 36 C 18.93 36 14 31.07 14 25 C 14 18.93 18.93 14 25 14 z M 25 16 C 20.04 16 16 20.04 16 25 C 16 29.96 20.04 34 25 34 C 29.96 34 34 29.96 34 25 C 34 20.04 29.96 16 25 16 z"></path>
+                            </svg>
+                        </a>
+                    </div>
+                    <div class="cv-document">
+                        <a class="download-cv-btn" aria-label="View Amirhosein Hassan's resume" href="https://amirhh-04.ir/">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-down" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M3.5 10a.5.5 0 0 1-.5-.5v-8a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 .5.5v8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 0 0 1h2A1.5 1.5 0 0 0 14 9.5v-8A1.5 1.5 0 0 0 12.5 0h-9A1.5 1.5 0 0 0 2 1.5v8A1.5 1.5 0 0 0 3.5 11h2a.5.5 0 0 0 0-1h-2z"></path>
+                                <path fill-rule="evenodd" d="M7.646 15.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 14.293V5.5a.5.5 0 0 0-1 0v8.793l-2.146-2.147a.5.5 0 0 0-.708.708l3 3z"></path>
+                            </svg>
+                            <span class="cv-btn-text">
+                                Download CV
+                            </span>
+                        </a>
+                    </div>
+                </div>
+              </div>
+            </div>
+        </div>
+        <!-- Main Doc --> 
+        <div class="main-doc">
+            <div class="cv-main-doc">
+                <div class="big-contact">
+                    <div class="cv-contact-header">
+                        <div class="cv-contact-base">
+                            <img class="cv-contact-img" src="https://api.amirhh-04.ir/icons/contact.png">
+                            <span class="cv-contact-text">Contact</span>
+                        </div>
+                    </div>
+                    <div class="cv-contact-body">
+                        <div class="cv-contact-cards">
+                            <div class="cv-contact-row">
+                                <div class="cv-contact-content">
+                                    <img class="cv-contact-icon" src="https://api.amirhh-04.ir/icons/location.png">
+                                    <span class="cv-contact-text">Tehran</span>
+                                </div>
+                            </div>
+                            <div class="cv-contact-row">
+                                <div class="cv-contact-content">
+                                    <img class="cv-contact-icon" src="https://api.amirhh-04.ir/icons/call.png">
+                                    <span class="cv-contact-text">+98 919 792 1945</span>
+                                </div>
+                            </div>
+                            <div class="cv-contact-row">
+                                <div class="cv-contact-content">
+                                    <img class="cv-contact-icon" src="https://api.amirhh-04.ir/icons/email.png">
+                                    <span class="cv-contact-text">support@amirhh-04.ir</span>
+                                </div>
+                            </div>
+                            <div class="cv-contact-row">
+                                <div class="cv-contact-content">
+                                    <img class="cv-contact-icon" src="https://api.amirhh-04.ir/icons/freelance.png">
+                                    <span class="cv-contact-text">Freelance Available</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cv-contact-form">
+                            <div class="cv-form-header">
+                                <span class="cv-header-text">Contact Me</span>
+                            </div>
+                            <div class="cv-form-fields">
+                                <form class="cv-form-base" method="post" action="/contact/index.php">
+                                    <div class="cv-form-left">
+                                        <div class="cv-left-row">
+                                            <label class="cv-message-label">Full Name :</label>
+                                            <input class="cv-left-input" type="text" name="fullname">
+                                        </div>
+                                        <div class="cv-left-row">
+                                            <label class="cv-message-label">E-mail :</label>
+                                            <input class="cv-left-input" type="text" name="email">
+                                        </div>
+                                        <div class="cv-left-row">
+                                            <label class="cv-message-label">Subject :</label>
+                                            <input class="cv-left-input" type="text" name="subject">
+                                        </div>
+                                        <div class="cv-left-row">
+                                            <label class="cv-message-label">Phone Number :</label>
+                                            <input class="cv-left-input" type="text" name="number">
+                                        </div>
+                                    </div>
+                                    <div class="cv-form-right">
+                                        <div class="cv-right-row">
+                                            <label class="cv-message-label">Message :</label>
+                                            <textarea class="cv-right-input" type="text" name="message"></textarea>
+                                            <div class="cv-button-zone">
+                                                <!-- <div class="g-recaptcha" data-sitekey="6LefTv8lAAAAAANSzdKXRHjmTAbg5-q7C4fx1psR" data-theme="dark"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-uhpdz0wby452" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LefTv8lAAAAAANSzdKXRHjmTAbg5-q7C4fx1psR&amp;co=aHR0cHM6Ly9hbWlycmV6YWphYmVyaS5pcjo0NDM.&amp;hl=en&amp;v=u-xcq3POCWFlCr3x8_IPxgPu&amp;theme=dark&amp;size=normal&amp;cb=nd1tdy6b1uto"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div> -->
+                                                <input id="cv-submit-button" class="cv-submit-button" name="cv-submit-button" type="submit">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                                <?php include 'recaptcha.php';?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script defer src="/js/script.js"></script>
+        <script async defer src="https://www.google.com/recaptcha/api.js"></script>
+    </body>
+</html>
